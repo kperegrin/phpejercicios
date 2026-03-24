@@ -1,0 +1,15 @@
+Ana,8
+Luis,4
+María,9
+Pedro,3
+Carmen,7
+Juan,5
+Laura,6
+Carlos,2
+Elena,10
+Pablo,4
+Sofía,8
+Diego,6
+Lucía,7
+Marcos,3
+Raquel,9
